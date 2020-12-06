@@ -2,7 +2,7 @@
 General store robbery for RedM
 
 
-Credits to WCRP // Perry
+Credits to WCRP // Perry // Wizard Neo
 
 add ensure wcrp_generalrobbery_kw to your server.cfg
 
