@@ -15,8 +15,8 @@ Config.npcspawn = {
 Config.Items = {
     "oldbuckle",
     "oldwatch",
-    "fan"
-   -- "coins"
+    "fan",
+    "coins"
 }
 
 
