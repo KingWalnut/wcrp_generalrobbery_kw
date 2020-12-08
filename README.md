@@ -17,4 +17,6 @@ As of rn, you can hit G at the cash register and run away and still get paid.
 You don't get notified properly of what you got but still recieve the items.
 No cooldowns.
 
+If you need help, join my discord, I run a RedM server that is in development and can provide support as well and future releases.
 
+Discord: https://discord.gg/kCeJ7tJPha
